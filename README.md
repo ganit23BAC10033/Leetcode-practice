@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0840-magic-squares-in-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Hash Table
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0840-magic-squares-in-grid) |
 ## Matrix
 |  |
