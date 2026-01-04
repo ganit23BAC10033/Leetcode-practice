@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1390-four-divisors](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/1390-four-divisors) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Hash Table
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0840-magic-squares-in-grid) |
+| [1390-four-divisors](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/1390-four-divisors) |
 ## Matrix
 |  |
 | ------- |
