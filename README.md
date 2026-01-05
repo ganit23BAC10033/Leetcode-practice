@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0137-single-number-ii) |
 | [0840-magic-squares-in-grid](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/1390-four-divisors) |
@@ -50,5 +51,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0137-single-number-ii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
