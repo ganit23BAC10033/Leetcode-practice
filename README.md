@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/1390-four-divisors) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/1975-maximum-matrix-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0840-magic-squares-in-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/1975-maximum-matrix-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Greedy
+|  |
+| ------- |
+| [1975-maximum-matrix-sum](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/1975-maximum-matrix-sum) |
 <!---LeetCode Topics End-->
