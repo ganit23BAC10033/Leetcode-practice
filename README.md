@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0260-single-number-iii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0840-magic-squares-in-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/1975-maximum-matrix-sum) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -88,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
