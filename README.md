@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3453-separate-squares-i](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/3454-separate-squares-ii) |
 ## Hash Table
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Greedy
 |  |
 | ------- |
