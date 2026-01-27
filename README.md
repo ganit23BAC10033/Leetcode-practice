@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0203-remove-linked-list-elements) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Heap (Priority Queue)
@@ -189,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
