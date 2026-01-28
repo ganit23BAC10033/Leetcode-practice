@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Heap (Priority Queue)
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0206-reverse-linked-list) |
 ## Graph Theory
 |  |
 | ------- |
