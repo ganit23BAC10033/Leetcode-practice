@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0067-add-binary) |
 | [0840-magic-squares-in-grid](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/1390-four-divisors) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0260-single-number-iii) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0067-add-binary) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
