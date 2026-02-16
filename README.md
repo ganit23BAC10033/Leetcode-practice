@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ganit23BAC10033/Leetcode-practice/tree/master/3721-longest-balanced-subarray-ii) |
